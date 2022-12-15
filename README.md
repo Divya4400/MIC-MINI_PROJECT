@@ -13,7 +13,7 @@ The easiest way to start using this project is to fork it in git. Alternatively,
  I tried to create petri-net design studio. As I'm javascript beginner I tried to create this project and spent lot of time on it.
  
 ## References
- - Some code reference from: https://github.com/austinjhunt/petrinet-webgme-designstudio
  - The seed is generated and downloaded through isis website.
+ - Some code reference from: https://github.com/austinjhunt/petrinet-webgme-designstudio
  - The template file(plugin and visulizer) of this project was generate by use Webgme-CLI: https://github.com/webgme/webgme-cli
  - The framework reference from: https://github.com/kecso/StateMachineJoint
