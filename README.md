@@ -10,7 +10,7 @@ The easiest way to start using this project is to fork it in git. Alternatively,
 - connect to your server at http://localhost:8888
 
 ## References
- 1.Some code reference from: https://github.com/austinjhunt/petrinet-webgme-designstudio
- 2.The seed is generated and downloaded through isis website.
- 3.The template file(plugin and visulizer) of this project was generate by use Webgme-CLI: https://github.com/webgme/webgme-cli
- 4.The framework reference from: https://github.com/kecso/StateMachineJoint
+ - Some code reference from: https://github.com/austinjhunt/petrinet-webgme-designstudio
+ - The seed is generated and downloaded through isis website.
+ - The template file(plugin and visulizer) of this project was generate by use Webgme-CLI: https://github.com/webgme/webgme-cli
+ - The framework reference from: https://github.com/kecso/StateMachineJoint
