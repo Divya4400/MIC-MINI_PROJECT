@@ -1,0 +1,8 @@
+[
+  {
+    "id": "PNVisualizer",
+    "title": "PNVisualizer",
+    "panel": "panels/PNVisualizer/PNVisualizerPanel",
+    "DEBUG_ONLY": false
+  }
+]

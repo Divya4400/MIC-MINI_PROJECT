@@ -1,0 +1,29 @@
+{
+  "components": {
+    "seeds": {
+      "PNSeed": {
+        "src": "src/seeds/PNSeed"
+      }
+    },
+    "plugins": {
+      "PNPlugin": {
+        "src": "src/plugins/PNPlugin",
+        "test": "test/plugins/PNPlugin"
+      }
+    },
+    "visualizers": {
+      "PNVisualizer": {
+        "src": "panels/PNVisualizer/PNVisualizerPanel",
+        "title": "PNVisualizer",
+        "panel": "src/visualizers/panels/PNVisualizer",
+        "secondary": false,
+        "widget": "src/visualizers/widgets/PNVisualizer"
+      }
+    }
+  },
+  "dependencies": {
+    "seeds": {},
+    "plugins": {},
+    "visualizers": {}
+  }
+}
