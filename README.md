@@ -9,6 +9,9 @@ The easiest way to start using this project is to fork it in git. Alternatively,
 - `docker-compose up -d`
 - connect to your server at http://localhost:8888
 
+## About the Project
+ I tried to create petri-net design studio. As I'm javascript beginner I tried to create this project and spent lot of time on it.
+ 
 ## References
  - Some code reference from: https://github.com/austinjhunt/petrinet-webgme-designstudio
  - The seed is generated and downloaded through isis website.
