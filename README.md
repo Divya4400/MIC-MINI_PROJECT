@@ -1,8 +1,5 @@
-# WDeStuP
+# Petri-Net
 This repository is intended to server as a bootstrap for a fully docker based Design Studio development with WebGME.
-This way, the developer's computer can remain clean from installation (other than docker and required images) of any additional software.
-So, forget the hassle of installing and running mongoDB, or Nodejs+npm, or Python that all can be challenging based on your actual OS.
-Just enjoy the pure joy of creating a Design Studio that really boost the productivity of engineers!
 
 ## Initialization
 The easiest way to start using this project is to fork it in git. Alternatively, you can create your empty repository, copy the content and just rename all instances of 'WDeStuP' to your liking. Assuming you fork, you can start-up following this few simple steps:
